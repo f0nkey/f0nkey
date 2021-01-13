@@ -3,6 +3,9 @@
 </p>
 <p align="center" style="font-size:60px">Hi there <i title="Hey there buddy!">👋</i> I am f0nkey and I am f0nkey!</p>
 
+<p align="center" style="font-size:60px"><a href="mailto:rob@imminentsl.com">Email Me!</a></p>
+
+
 <hr>
 
 I like to [play guitar](https://streamable.com/a4v302), eat oreos with milk, and take on heavily ambitious projects!
