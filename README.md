@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" title="What a handsome young man" alt="profile picture in a metal border" src="https://github.com/f0nkey/f0nkey/blob/main/gopher-circled.png?raw=true" width="300" height="300" />
+  <img align="center" title="What a handsome young man" alt="profile picture in a metal border" src="https://github.com/f0nkey/f0nkey/blob/main/gopher-circled.png?raw=true" width="200" height="200" />
 </p>
 <p align="center" style="font-size:60px">Hi there <i title="Hey there buddy!">👋</i> I am f0nkey and I am f0nkey!</p>
 
