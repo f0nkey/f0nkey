@@ -12,7 +12,7 @@ I like to [play guitar](https://streamable.com/a4v302), eat oreos with milk, and
 
 I am a senior in college getting a BBA in Management Information Systems.
 
-How you can make someone's life easier or more enjoyable by simply banging on a keyboard (and eventually your face against the keyboard from bugs) is such a powerful way to help out a massive amount of people, and is one reason I love coding.
+How you can make someone's life easier or more enjoyable by simply banging on a keyboard (and eventually your face during debugging) is such a powerful way to help out a massive amount of people, and is one reason I love coding.
 
 ### My Side Projects
 
