@@ -3,7 +3,7 @@
 </p>
 <p align="center" style="font-size:60px">Hi there <i title="Hey there buddy!">👋</i> I am f0nkey and I am f0nkey!</p>
 
-<p align="center" style="font-size:60px"><a href="mailto:rob@imminentsl.com">Email Me!</a></p>
+<p align="center" style="font-size:60px">Discord: F0nkey#9767/a></p>
 
 
 <hr>
