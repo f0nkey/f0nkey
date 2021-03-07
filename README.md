@@ -16,7 +16,6 @@ How you can make someone's life easier or more enjoyable by simply banging on a 
 
 Banner I made that grabs data from my FitBit watch:
 ![FitBit Heart Rate Chart](http://ec2-3-212-43-193.compute-1.amazonaws.com:8090/stats.svg)
-<img align="center" alt="FitBit Heart Rate Chart" src="http://ec2-3-212-43-193.compute-1.amazonaws.com:8090/stats.svg"/>
 
 <hr>
 
