@@ -8,7 +8,7 @@
 
 <hr>
 
-I like to [play guitar](https://streamable.com/a4v302), eat oreos with milk, and take on projects larger than I can chew!
+I like to [play guitar](https://streamable.com/a4v302), and take on projects larger than I can chew!
 
 I am a senior in college getting a BBA in Management Information Systems.
 
