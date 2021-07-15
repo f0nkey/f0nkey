@@ -8,14 +8,11 @@
 
 <hr>
 
-I like to [play guitar](https://streamable.com/a4v302), and take on projects larger than I can chew!
+I like to play guitar and drink too much coffee.
 
 I am a senior in college getting a BBA in Management Information Systems.
 
 How you can make someone's life easier or more enjoyable by simply banging on a keyboard (and eventually your face during debugging) is such a powerful way to help out a massive amount of people, and is one reason I love coding.
 
 <hr>
-
-- [Grugby](http://imminentsl.com:8700/) <img align="center" alt="Svelte" title="Svelte Framework" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_svelte.svg" width="25" height="25" /> <img align="center" alt="Golang" title="Golang" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_go_aqua.svg" width="25" height="25" /> <img align="center" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_js_official.svg" width="25" height="25" /> <img align="center" alt="CSS" title="CSS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_css.svg" width="25" height="25" /> <img align="center" alt="Protobuf" title="Protobuf" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_protobuf.svg" width="25" height="25" />
-  - a multiplayer physics-based rugby game, played in the browser
  
