@@ -10,9 +10,5 @@
 
 I like to play guitar and drink too much coffee.
 
-I am a senior in college getting a BBA in Management Information Systems.
-
-How you can make someone's life easier or more enjoyable by simply banging on a keyboard (and eventually your face during debugging) is such a powerful way to help out a massive amount of people, and is one reason I love coding.
-
 <hr>
  
